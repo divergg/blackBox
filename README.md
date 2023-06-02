@@ -16,6 +16,10 @@
 
 Accuracy для диапазона составляет 64,3%
 
+Распределение количества правильных ответов в зависимости от границ (matplotlib)
+
+![pic1](https://github.com/divergg/blackBox/blob/master/plot.PNG)
+
 # Порядок запуска
 
 1) Клонирование репозитория (git clone)
